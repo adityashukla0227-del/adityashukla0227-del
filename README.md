@@ -1,5 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aditya Shukla 👋
 
+Student | Web Developer | Aspiring App Developer
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- Responsive Design
+
+## Projects
+- Portfolio Website
+- CalcPro
+- AI Web App (In Progress)
+
+## Contact
+📧 adityashukla0227@gmail.com
+
+🌐 Portfolio:
+https://adityashukla0227-del.github.io/adityashukla.github.io/
 <!--
 **adityashukla0227-del/adityashukla0227-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
